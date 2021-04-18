@@ -1,0 +1,11 @@
+[package]
+name = "mj-hd"
+version = "0.1.0"
+authors = ["mjhd <mjhd.devlion@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+tera = "1.7.1"
+reqwest = { version = "0.11.3", features = ["blocking", "json"] }
+serde = { version = "1.0.117", features = ["derive"] }
+serde-xml-rs = "0.4.1"
