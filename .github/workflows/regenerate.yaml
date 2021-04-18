@@ -1,0 +1,51 @@
+name: Regenerate README
+
+on:
+  push:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+
+      - name: cache cargo registry
+        uses: actions/cache@v2
+        with:
+          path: ~/.cargo/registry
+          key: cargo-registry-${{ hashFiles('**/Cargo.lock') }}
+
+      - name: cache cargo index
+        uses: actions/cache@v2
+        with:
+          path: ~/.cargo/git
+          key: cargo-index-${{ hashFiles('**/Cargo.lock') }}
+
+      - name: cache cargo build
+        uses: actions/cache@v2
+        with:
+          path: target
+          key: cargo-build-target-${{ hashFiles('**/Cargo.lock') }}
+
+      - name: generate README
+        uses: actions-rs/cargo@v1
+        with:
+          command: run
+        env:
+          README_DEVICONS: vim-original,typescript-original,react-original,go-original,javascript-original,nodejs-original
+          README_PROJECTS: mj-hd/gb,mj-hd/gb-reader,mj-hd/vim-picomap,mj-hd/promviz-front,mj-hd/ASC-Simulator-and-Assembler,mj-hd/hsproom
+
+      - name: commit
+        run: |
+          git config --local user.email "mjhd.devlion@gmail.com"
+          git config --local user.name "mjhd"
+          git add README.md
+          git commit -m "regenerate README.md"
+          git push origin ${GITHUB_REF##*/}

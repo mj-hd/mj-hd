@@ -1,0 +1,25 @@
+## Things I code with
+
+{% for devicon in devicons -%}
+  ![{{ devicon }}](https://icongr.am/devicon/{{ devicon }}.svg)
+{% endfor %}
+
+## Open Source Projects
+
+|Projects|stars|forks|
+|--------|-----|-----|
+{% for project in projects -%}
+|{{ project.name }}|{{ project.stars }}|{{ project.forks }}|
+{% endfor %}
+
+## Latest gists
+
+{% for gist in gists -%}
+- [{{ gist.title }}]({{ gist.url }})
+{% endfor %}
+
+## Latest posts
+
+{% for post in posts -%}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
