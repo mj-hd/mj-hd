@@ -9,7 +9,7 @@
 |Projects|stars|forks|
 |--------|-----|-----|
 {% for project in projects -%}
-|{{ project.name }}|{{ project.stars }}|{{ project.forks }}|
+|[{{ project.name }}]({{ project.url }})|{{ project.stars }}|{{ project.forks }}|
 {% endfor %}
 
 ## Latest gists
