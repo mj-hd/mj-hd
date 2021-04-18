@@ -1,15 +1,23 @@
 ## Things I code with
 
-![hoge](https://icongr.am/devicon/hoge.svg)
-![fuga](https://icongr.am/devicon/fuga.svg)
+![vim-original](https://icongr.am/devicon/vim-original.svg)
+![typescript-original](https://icongr.am/devicon/typescript-original.svg)
+![react-original](https://icongr.am/devicon/react-original.svg)
+![go-original](https://icongr.am/devicon/go-original.svg)
+![javascript-original](https://icongr.am/devicon/javascript-original.svg)
+![nodejs-original](https://icongr.am/devicon/nodejs-original.svg)
 
 
 ## Open Source Projects
 
 |Projects|stars|forks|
 |--------|-----|-----|
-|mj-hd/mj-hd|0|0|
 |mj-hd/gb|2|0|
+|mj-hd/gb-reader|0|0|
+|mj-hd/vim-picomap|3|0|
+|mj-hd/promviz-front|48|8|
+|mj-hd/ASC-Simulator-and-Assembler|3|0|
+|mj-hd/hsproom|8|3|
 
 
 ## Latest gists
