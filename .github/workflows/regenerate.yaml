@@ -46,6 +46,7 @@ jobs:
         run: |
           git config --local user.email "mjhd.devlion@gmail.com"
           git config --local user.name "mjhd"
+          git pull origin ${GITHUB_REF##*/} --ff-only
           git add README.md
           git commit -m "regenerate README.md"
           git push origin ${GITHUB_REF##*/}
