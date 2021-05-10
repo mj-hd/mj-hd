@@ -31,7 +31,7 @@
 
 ## Latest posts
 
-- [ゲームボーイエミュレータを自作した話](https://mjhd.hatenablog.com/entry/2021/04/14/221813)
+- [Rustでゲームボーイエミュレータを自作した話](https://mjhd.hatenablog.com/entry/2021/04/14/221813)
 - [2020年 振り返りと抱負](https://mjhd.hatenablog.com/entry/2020/12/31/214411)
 - [2020年 買ってよかったモノ](https://mjhd.hatenablog.com/entry/2020/12/19/175222)
 - [2020年最高のWSL環境を求めて](https://mjhd.hatenablog.com/entry/2020/05/09/160313)
