@@ -13,7 +13,7 @@
 |Projects|stars|forks|
 |--------|-----|-----|
 |[mj-hd/rnes](https://github.com/mj-hd/rnes)|0|0|
-|[mj-hd/gb](https://github.com/mj-hd/gb)|3|0|
+|[mj-hd/gb](https://github.com/mj-hd/gb)|4|0|
 |[mj-hd/gb-reader](https://github.com/mj-hd/gb-reader)|0|0|
 |[mj-hd/vim-picomap](https://github.com/mj-hd/vim-picomap)|3|0|
 |[mj-hd/promviz-front](https://github.com/mj-hd/promviz-front)|48|8|
