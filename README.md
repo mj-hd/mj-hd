@@ -16,7 +16,7 @@
 |[mj-hd/gb](https://github.com/mj-hd/gb)|4|0|
 |[mj-hd/gb-reader](https://github.com/mj-hd/gb-reader)|1|0|
 |[mj-hd/vim-picomap](https://github.com/mj-hd/vim-picomap)|3|0|
-|[mj-hd/promviz-front](https://github.com/mj-hd/promviz-front)|49|9|
+|[mj-hd/promviz-front](https://github.com/mj-hd/promviz-front)|50|9|
 |[mj-hd/ASC-Simulator-and-Assembler](https://github.com/mj-hd/ASC-Simulator-and-Assembler)|3|0|
 |[mj-hd/hsproom](https://github.com/mj-hd/hsproom)|8|3|
 
