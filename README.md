@@ -1,13 +1,13 @@
 ## Things I code with
 
-![flutter/flutter-original](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)
-![dart/dart-original-wordmark](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg)
-![react/react-original-wordmark](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg)
-![typescript/typescript-original](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
-![go/go-original](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg)
-![vim/vim-original](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg)
-![javascript/javascript-original](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-![nodejs/nodejs-original-wordmark](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter/flutter-original" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" alt="dart/dart-original-wordmark" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react/react-original-wordmark" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript/typescript-original" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go/go-original" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim/vim-original" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript/javascript-original" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs/nodejs-original-wordmark" width="32" height="32">
 
 
 ## Open Source Projects
