@@ -39,7 +39,7 @@ jobs:
         with:
           command: run
         env:
-          README_DEVICONS: vim-original,typescript-original,react-original,go-original,javascript-original,nodejs-original
+          README_DEVICONS: flutter/flutter-original,dart/dart-original-wordmark,react/react-original-wordmark,typescript/typescript-original,go/go-original,vim/vim-original,javascript/javascript-original,nodejs/nodejs-original-wordmark
           README_PROJECTS: mj-hd/rnes,mj-hd/gb,mj-hd/gb-reader,mj-hd/vim-picomap,mj-hd/promviz-front,mj-hd/ASC-Simulator-and-Assembler,mj-hd/hsproom
 
       - name: commit
