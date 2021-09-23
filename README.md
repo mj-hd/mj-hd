@@ -1,11 +1,13 @@
 ## Things I code with
 
-![vim-original](https://icongr.am/devicon/vim-original.svg)
-![typescript-original](https://icongr.am/devicon/typescript-original.svg)
-![react-original](https://icongr.am/devicon/react-original.svg)
-![go-original](https://icongr.am/devicon/go-original.svg)
-![javascript-original](https://icongr.am/devicon/javascript-original.svg)
-![nodejs-original](https://icongr.am/devicon/nodejs-original.svg)
+![flutter/flutter-original](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)
+![dart/dart-original-wordmark](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg)
+![react/react-original-wordmark](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg)
+![typescript/typescript-original](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
+![go/go-original](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg)
+![vim/vim-original](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg)
+![javascript/javascript-original](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![nodejs/nodejs-original-wordmark](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg)
 
 
 ## Open Source Projects
