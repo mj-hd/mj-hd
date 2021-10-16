@@ -6,9 +6,9 @@
 
 |Projects|stars|forks|
 |--------|-----|-----|
-|[mj-hd/dashboy](https://github.com/mj-hd/dashboy)|4|0|
+|[mj-hd/dashboy](https://github.com/mj-hd/dashboy)|29|1|
 |[mj-hd/rnes](https://github.com/mj-hd/rnes)|0|0|
-|[mj-hd/gb](https://github.com/mj-hd/gb)|7|0|
+|[mj-hd/gb](https://github.com/mj-hd/gb)|8|0|
 |[mj-hd/gb-reader](https://github.com/mj-hd/gb-reader)|1|0|
 |[mj-hd/vim-picomap](https://github.com/mj-hd/vim-picomap)|3|0|
 |[mj-hd/ASC-Simulator-and-Assembler](https://github.com/mj-hd/ASC-Simulator-and-Assembler)|3|0|
