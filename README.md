@@ -13,7 +13,7 @@
 
 |Projects|stars|forks|
 |--------|-----|-----|
-|[mj-hd/dashboy](https://github.com/mj-hd/dashboy)|115|2|
+|[mj-hd/dashboy](https://github.com/mj-hd/dashboy)|116|2|
 |[mj-hd/rnes](https://github.com/mj-hd/rnes)|0|0|
 |[mj-hd/gb](https://github.com/mj-hd/gb)|17|1|
 |[mj-hd/gb-reader](https://github.com/mj-hd/gb-reader)|1|0|
