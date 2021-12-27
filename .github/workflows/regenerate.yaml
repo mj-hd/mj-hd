@@ -40,7 +40,7 @@ jobs:
           command: run
         env:
           README_DEVICONS: flutter/flutter-original,dart/dart-original-wordmark,react/react-original-wordmark,typescript/typescript-original,go/go-original,vim/vim-original,javascript/javascript-original,nodejs/nodejs-original-wordmark
-          README_PROJECTS: mj-hd/dashboy,mj-hd/rnes,mj-hd/gb,mj-hd/gb-reader,mj-hd/vim-picomap,mj-hd/ASC-Simulator-and-Assembler,mj-hd/hsproom
+          README_PROJECTS: mj-hd/dashboy,mj-hd/flutter_hooks_lint_plugin,mj-hd/rnes,mj-hd/gb,mj-hd/gb-reader,mj-hd/vim-picomap,mj-hd/ASC-Simulator-and-Assembler,mj-hd/hsproom
 
       - name: commit
         run: |
