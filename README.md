@@ -17,9 +17,9 @@
 |[mj-hd/dashboy](https://github.com/mj-hd/dashboy)|119|3|
 |[mj-hd/flutter_hooks_lint_plugin](https://github.com/mj-hd/flutter_hooks_lint_plugin)|14|1|
 |[mj-hd/rnes](https://github.com/mj-hd/rnes)|0|0|
-|[mj-hd/gb](https://github.com/mj-hd/gb)|20|1|
+|[mj-hd/gb](https://github.com/mj-hd/gb)|21|1|
 |[mj-hd/gb-reader](https://github.com/mj-hd/gb-reader)|1|0|
-|[mj-hd/vim-picomap](https://github.com/mj-hd/vim-picomap)|3|0|
+|[mj-hd/vim-picomap](https://github.com/mj-hd/vim-picomap)|4|0|
 |[mj-hd/ASC-Simulator-and-Assembler](https://github.com/mj-hd/ASC-Simulator-and-Assembler)|3|0|
 |[mj-hd/hsproom](https://github.com/mj-hd/hsproom)|9|3|
 
