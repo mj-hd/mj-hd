@@ -5,9 +5,7 @@
 ## Things I want to do
 
 - GameBoy Color support (https://github.com/mj-hd/gb, https://github.com/mj-hd/dashboy)
-- GameBoy Advance Emulator (https://github.com/mj-hd/rgba)
 - Blackhole Ray-Tracing (like https://github.com/vlwkaos/threejs-blackhole)
-- PlayStation Emulation (https://svkt.org/~simias/guide.pdf)
 - ...etc
 
 ## Open Source Projects
