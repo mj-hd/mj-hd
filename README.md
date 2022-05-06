@@ -10,20 +10,20 @@
 
 ## Open Source Projects
 
-|Projects|stars|forks|
-|--------|-----|-----|
-|[mj-hd/rps](https://github.com/mj-hd/rps)|0|0|
-|[mj-hd/dashnes](https://github.com/mj-hd/dashnes)|0|0|
-|[mj-hd/dashboy-advance](https://github.com/mj-hd/dashboy-advance)|0|0|
-|[mj-hd/dashboy](https://github.com/mj-hd/dashboy)|123|4|
-|[mj-hd/rgba](https://github.com/mj-hd/rgba)|9|1|
-|[mj-hd/flutter_hooks_lint_plugin](https://github.com/mj-hd/flutter_hooks_lint_plugin)|25|1|
-|[mj-hd/rnes](https://github.com/mj-hd/rnes)|5|0|
-|[mj-hd/gb](https://github.com/mj-hd/gb)|24|1|
-|[mj-hd/gb-reader](https://github.com/mj-hd/gb-reader)|1|1|
-|[mj-hd/vim-picomap](https://github.com/mj-hd/vim-picomap)|7|0|
-|[mj-hd/ASC-Simulator-and-Assembler](https://github.com/mj-hd/ASC-Simulator-and-Assembler)|3|0|
-|[mj-hd/hsproom](https://github.com/mj-hd/hsproom)|9|3|
+|Projects|Description|stars|forks|
+|--------|-----------|-----|-----|
+|[mj-hd/rps](https://github.com/mj-hd/rps)|PlayStation Emulator in Rust|0|0|
+|[mj-hd/dashnes](https://github.com/mj-hd/dashnes)|NES Emulator by Flutter&Rust|0|0|
+|[mj-hd/dashboy-advance](https://github.com/mj-hd/dashboy-advance)|GameBoy Advance Emulator by Flutter&Rust|0|0|
+|[mj-hd/dashboy](https://github.com/mj-hd/dashboy)|Gameboy Emulator by Dart&Flutter|123|4|
+|[mj-hd/rgba](https://github.com/mj-hd/rgba)|GBA Emulator in Rust|9|1|
+|[mj-hd/flutter_hooks_lint_plugin](https://github.com/mj-hd/flutter_hooks_lint_plugin)|a lint plugin for flutter_hooks|25|1|
+|[mj-hd/rnes](https://github.com/mj-hd/rnes)|NES Emulator in Rust|5|0|
+|[mj-hd/gb](https://github.com/mj-hd/gb)|Gameboy Emulator in Rust|24|1|
+|[mj-hd/gb-reader](https://github.com/mj-hd/gb-reader)|GB cardridge reader for CUBIC STYLE's Raspberry Pi ADVANCE Expansion Board|1|1|
+|[mj-hd/vim-picomap](https://github.com/mj-hd/vim-picomap)|visualize your code with overview like Visual Studio's minimap (under development)|7|0|
+|[mj-hd/ASC-Simulator-and-Assembler](https://github.com/mj-hd/ASC-Simulator-and-Assembler)|「コンピュータのしくみを理解するための10章」より、ASC用アセンブラとシミュレータ|3|0|
+|[mj-hd/hsproom](https://github.com/mj-hd/hsproom)|HSP製プログラム専用投稿ポータル|9|3|
 
 
 ## Latest gists

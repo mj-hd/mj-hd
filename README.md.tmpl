@@ -10,10 +10,10 @@
 
 ## Open Source Projects
 
-|Projects|stars|forks|
-|--------|-----|-----|
+|Projects|Description|stars|forks|
+|--------|-----------|-----|-----|
 {% for project in projects -%}
-|[{{ project.name }}]({{ project.url }})|{{ project.stars }}|{{ project.forks }}|
+|[{{ project.name }}]({{ project.url }})|{{ project.desc }}|{{ project.stars }}|{{ project.forks }}|
 {% endfor %}
 
 ## Latest gists

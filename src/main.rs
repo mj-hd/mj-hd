@@ -10,12 +10,14 @@ use tera::{Context, Tera};
 struct GithubRepo {
     html_url: String,
     stargazers_count: u32,
+    description: String,
     forks: u32,
 }
 
 #[derive(Serialize, Deserialize)]
 struct RepoStat {
     name: String,
+    desc: String,
     url: String,
     stars: u32,
     forks: u32,
@@ -35,6 +37,7 @@ fn get_repo_stats(client: &Client, projects: Vec<&str>) -> Result<Vec<RepoStat>,
         stats.push(RepoStat {
             name: project.to_string(),
             url: response.html_url,
+            desc: response.description,
             stars: response.stargazers_count,
             forks: response.forks,
         });
