@@ -1,6 +1,6 @@
 ## Things I code with
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter/flutter-original" width="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" alt="dart/dart-original-wordmark" width="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react/react-original-wordmark" width="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript/typescript-original" width="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go/go-original" width="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim/vim-original" width="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript/javascript-original" width="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs/nodejs-original-wordmark" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust/rust-plain" width="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter/flutter-original" width="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" alt="dart/dart-original-wordmark" width="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react/react-original-wordmark" width="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript/typescript-original" width="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go/go-original" width="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim/vim-original" width="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript/javascript-original" width="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs/nodejs-original-wordmark" width="32" height="32">
 
 ## Things I want to do
 
@@ -12,8 +12,11 @@
 
 |Projects|stars|forks|
 |--------|-----|-----|
-|[mj-hd/rgba](https://github.com/mj-hd/rgba)|9|1|
+|[mj-hd/rps](https://github.com/mj-hd/rps)|0|0|
+|[mj-hd/dashnes](https://github.com/mj-hd/dashnes)|0|0|
+|[mj-hd/dashboy-advance](https://github.com/mj-hd/dashboy-advance)|0|0|
 |[mj-hd/dashboy](https://github.com/mj-hd/dashboy)|123|4|
+|[mj-hd/rgba](https://github.com/mj-hd/rgba)|9|1|
 |[mj-hd/flutter_hooks_lint_plugin](https://github.com/mj-hd/flutter_hooks_lint_plugin)|25|1|
 |[mj-hd/rnes](https://github.com/mj-hd/rnes)|5|0|
 |[mj-hd/gb](https://github.com/mj-hd/gb)|24|1|
