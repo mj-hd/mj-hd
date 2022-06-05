@@ -35,9 +35,9 @@
 
 ## Latest posts
 
+- [GWにPlayStationエミュレータ作りに取り組んだ話](https://mjhd.hatenablog.com/entry/2022/06/04/135835)
+- [Github Actionsのcacheをデータの永続化(?)に使う](https://mjhd.hatenablog.com/entry/2022/06/04/104711)
 - [読みやすいコードって何だろう](https://mjhd.hatenablog.com/entry/2022/06/02/190913)
 - [2021年 振り返りと抱負](https://mjhd.hatenablog.com/entry/2021/12/31/233213)
 - [Rustでファミコンエミュレータを自作した話](https://mjhd.hatenablog.com/entry/2021/06/12/123013)
-- [Rustでゲームボーイエミュレータを自作した話](https://mjhd.hatenablog.com/entry/2021/04/14/221813)
-- [2020年 振り返りと抱負](https://mjhd.hatenablog.com/entry/2020/12/31/214411)
 
