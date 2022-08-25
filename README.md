@@ -21,7 +21,7 @@
 |[mj-hd/rnes](https://github.com/mj-hd/rnes)|NES Emulator in Rust|6|0|
 |[mj-hd/gb](https://github.com/mj-hd/gb)|Gameboy Emulator in Rust|26|1|
 |[mj-hd/gb-reader](https://github.com/mj-hd/gb-reader)|GB cardridge reader for CUBIC STYLE's Raspberry Pi ADVANCE Expansion Board|3|1|
-|[mj-hd/ASC-Simulator-and-Assembler](https://github.com/mj-hd/ASC-Simulator-and-Assembler)|「コンピュータのしくみを理解するための10章」より、ASC用アセンブラとシミュレータ|5|0|
+|[mj-hd/ASC-Simulator-and-Assembler](https://github.com/mj-hd/ASC-Simulator-and-Assembler)|「算数で読み解く コンピュータのしくみ」より、ASC用アセンブラとシミュレータ|5|0|
 
 
 ## Latest gists
