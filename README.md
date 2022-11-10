@@ -12,15 +12,15 @@
 
 |Projects|Description|stars|forks|
 |--------|-----------|-----|-----|
-|[mj-hd/rps](https://github.com/mj-hd/rps)|PlayStation Emulator in Rust|4|0|
-|[mj-hd/dashnes](https://github.com/mj-hd/dashnes)|NES Emulator by Flutter&Rust|0|0|
-|[mj-hd/dashboy-advance](https://github.com/mj-hd/dashboy-advance)|GameBoy Advance Emulator by Flutter&Rust|0|0|
-|[mj-hd/dashboy](https://github.com/mj-hd/dashboy)|Gameboy Emulator implemented by pure Dart|135|4|
-|[mj-hd/rgba](https://github.com/mj-hd/rgba)|GBA Emulator in Rust|15|1|
+|[mj-hd/rps](https://github.com/mj-hd/rps)|PlayStation Emulator in Rust|5|0|
+|[mj-hd/dashnes](https://github.com/mj-hd/dashnes)|NES Emulator by Flutter&Rust|1|0|
+|[mj-hd/dashboy-advance](https://github.com/mj-hd/dashboy-advance)|GameBoy Advance Emulator by Flutter&Rust|1|0|
+|[mj-hd/dashboy](https://github.com/mj-hd/dashboy)|Gameboy Emulator implemented by pure Dart|134|4|
+|[mj-hd/rgba](https://github.com/mj-hd/rgba)|GBA Emulator in Rust|16|1|
 |[mj-hd/flutter_hooks_lint_plugin](https://github.com/mj-hd/flutter_hooks_lint_plugin)|a lint plugin for flutter_hooks|28|1|
-|[mj-hd/rnes](https://github.com/mj-hd/rnes)|NES Emulator in Rust|6|0|
-|[mj-hd/gb](https://github.com/mj-hd/gb)|Gameboy Emulator in Rust|27|1|
-|[mj-hd/gb-reader](https://github.com/mj-hd/gb-reader)|GB cardridge reader for CUBIC STYLE's Raspberry Pi ADVANCE Expansion Board|3|1|
+|[mj-hd/rnes](https://github.com/mj-hd/rnes)|NES Emulator in Rust|7|0|
+|[mj-hd/gb](https://github.com/mj-hd/gb)|Gameboy Emulator in Rust|26|1|
+|[mj-hd/gb-reader](https://github.com/mj-hd/gb-reader)|GB cardridge reader for CUBIC STYLE's Raspberry Pi ADVANCE Expansion Board|5|1|
 |[mj-hd/ASC-Simulator-and-Assembler](https://github.com/mj-hd/ASC-Simulator-and-Assembler)|「算数で読み解く コンピュータのしくみ」より、ASC用アセンブラとシミュレータ|5|0|
 
 
