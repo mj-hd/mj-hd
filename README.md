@@ -4,7 +4,9 @@
 
 ## Things I want to do
 
+- GameBoy Sound support by dart FFI (https://github.com/mj-hd/dashboy)
 - GameBoy Color support (https://github.com/mj-hd/gb, https://github.com/mj-hd/dashboy)
+- PlayStation (any) ROM Emulation (https://github.com/mj-hd/rps)
 - Blackhole Ray-Tracing (like https://github.com/vlwkaos/threejs-blackhole)
 - ...etc
 
