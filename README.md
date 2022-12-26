@@ -39,7 +39,7 @@
 
 - [ズボラ自炊ブートキャンプ](https://mjhd.hatenablog.com/entry/2022/12/17/125258)
 - [株式会社サイバーエージェントを退職しました](https://mjhd.hatenablog.com/entry/2022/10/09/161150)
-- [2022年前半期(1月～7月)の振り返り](https://mjhd.hatenablog.com/entry/2022/07/31/111745)
 - [Github Actionsのcacheをデータの永続化(?)に使う](https://mjhd.hatenablog.com/entry/2022/06/04/104711)
 - [読みやすいコードって何だろう](https://mjhd.hatenablog.com/entry/2022/06/02/190913)
+- [2021年 振り返りと抱負](https://mjhd.hatenablog.com/entry/2021/12/31/233213)
 
