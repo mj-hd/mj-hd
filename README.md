@@ -17,7 +17,7 @@
 |[mj-hd/rps](https://github.com/mj-hd/rps)|PlayStation Emulator in Rust|5|0|
 |[mj-hd/dashnes](https://github.com/mj-hd/dashnes)|NES Emulator by Flutter&Rust|1|0|
 |[mj-hd/dashboy-advance](https://github.com/mj-hd/dashboy-advance)|GameBoy Advance Emulator by Flutter&Rust|1|0|
-|[mj-hd/dashboy](https://github.com/mj-hd/dashboy)|Gameboy Emulator implemented by pure Dart|135|5|
+|[mj-hd/dashboy](https://github.com/mj-hd/dashboy)|Gameboy Emulator implemented by pure Dart|136|6|
 |[mj-hd/rgba](https://github.com/mj-hd/rgba)|GBA Emulator in Rust|18|1|
 |[mj-hd/flutter_hooks_lint_plugin](https://github.com/mj-hd/flutter_hooks_lint_plugin)|a lint plugin for flutter_hooks|28|1|
 |[mj-hd/rnes](https://github.com/mj-hd/rnes)|NES Emulator in Rust|7|0|
