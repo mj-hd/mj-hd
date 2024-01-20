@@ -22,7 +22,7 @@
 |[mj-hd/flutter_hooks_lint_plugin](https://github.com/mj-hd/flutter_hooks_lint_plugin)|a lint plugin for flutter_hooks|30|1|
 |[mj-hd/rnes](https://github.com/mj-hd/rnes)|NES Emulator in Rust|7|0|
 |[mj-hd/gb](https://github.com/mj-hd/gb)|Gameboy Emulator in Rust|28|1|
-|[mj-hd/gb-reader](https://github.com/mj-hd/gb-reader)|GB cardridge reader for CUBIC STYLE's Raspberry Pi ADVANCE Expansion Board|11|1|
+|[mj-hd/gb-reader](https://github.com/mj-hd/gb-reader)|GB cardridge reader for CUBIC STYLE's Raspberry Pi ADVANCE Expansion Board|11|2|
 |[mj-hd/ASC-Simulator-and-Assembler](https://github.com/mj-hd/ASC-Simulator-and-Assembler)|「算数で読み解く コンピュータのしくみ」より、ASC用アセンブラとシミュレータ|5|0|
 
 
