@@ -14,7 +14,7 @@
 
 |Projects|Description|stars|forks|
 |--------|-----------|-----|-----|
-|[mj-hd/rps](https://github.com/mj-hd/rps)|PlayStation Emulator in Rust|7|0|
+|[mj-hd/rps](https://github.com/mj-hd/rps)|PlayStation Emulator in Rust|8|0|
 |[mj-hd/dashnes](https://github.com/mj-hd/dashnes)|NES Emulator by Flutter&Rust|1|0|
 |[mj-hd/dashboy-advance](https://github.com/mj-hd/dashboy-advance)|GameBoy Advance Emulator by Flutter&Rust|1|0|
 |[mj-hd/dashboy](https://github.com/mj-hd/dashboy)|Gameboy Emulator implemented by pure Dart|140|8|
