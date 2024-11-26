@@ -17,11 +17,11 @@
 |[mj-hd/rps](https://github.com/mj-hd/rps)|PlayStation Emulator in Rust|9|0|
 |[mj-hd/dashnes](https://github.com/mj-hd/dashnes)|NES Emulator by Flutter&Rust|1|0|
 |[mj-hd/dashboy-advance](https://github.com/mj-hd/dashboy-advance)|GameBoy Advance Emulator by Flutter&Rust|1|0|
-|[mj-hd/dashboy](https://github.com/mj-hd/dashboy)|Gameboy Emulator implemented by pure Dart|150|8|
+|[mj-hd/dashboy](https://github.com/mj-hd/dashboy)|Gameboy Emulator implemented by pure Dart|151|8|
 |[mj-hd/rgba](https://github.com/mj-hd/rgba)|GBA Emulator in Rust|18|1|
 |[mj-hd/flutter_hooks_lint_plugin](https://github.com/mj-hd/flutter_hooks_lint_plugin)|a lint plugin for flutter_hooks|30|2|
 |[mj-hd/rnes](https://github.com/mj-hd/rnes)|NES Emulator in Rust|7|0|
-|[mj-hd/gb](https://github.com/mj-hd/gb)|Gameboy Emulator in Rust|30|1|
+|[mj-hd/gb](https://github.com/mj-hd/gb)|Gameboy Emulator in Rust|31|1|
 |[mj-hd/gb-reader](https://github.com/mj-hd/gb-reader)|GB cardridge reader for CUBIC STYLE's Raspberry Pi ADVANCE Expansion Board|11|3|
 |[mj-hd/ASC-Simulator-and-Assembler](https://github.com/mj-hd/ASC-Simulator-and-Assembler)|「算数で読み解く コンピュータのしくみ」より、ASC用アセンブラとシミュレータ|5|0|
 
