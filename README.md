@@ -37,9 +37,9 @@
 
 ## Latest posts
 
+- [2024年の振り返りと抱負](https://mjhd.hatenablog.com/entry/2024/12/31/141530)
 - [2023年振り返りと抱負](https://mjhd.hatenablog.com/entry/2024/01/01/002206)
 - [2022年振り返り 学んだことと来年の抱負](https://mjhd.hatenablog.com/entry/2022/12/30/231606)
 - [ズボラ自炊ブートキャンプ](https://mjhd.hatenablog.com/entry/2022/12/17/125258)
 - [株式会社サイバーエージェントを退職しました](https://mjhd.hatenablog.com/entry/2022/10/09/161150)
-- [Github Actionsのcacheをデータの永続化(?)に使う](https://mjhd.hatenablog.com/entry/2022/06/04/104711)
 
